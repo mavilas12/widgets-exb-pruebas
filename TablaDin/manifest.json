@@ -1,0 +1,21 @@
+{
+  "name": "TablaDin",
+  "label": "Tabla Dinámica",
+  "settingUri": "setting/setting",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "Laboratorio SIG y SR - Instituto SINCHI",
+  "description": "Widget de tabla dinámica basado en una fuente de datos.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "useDataSources": true,
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

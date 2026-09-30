@@ -1,0 +1,64 @@
+{
+  "rowFields": [],
+  "columnFields": [],
+  "valueField": "",
+  "aggregation": "none",
+
+  "rowSortField": "",
+  "rowSortDirection": "none",
+  "columnSortField": "",
+  "columnSortDirection": "none",
+
+  "enableNumberFormatting": true,
+  "formatCategoryField": "",
+  "defaultDecimalPlaces": 2,
+  "formatRules": [],
+
+  "showTitle": true,
+  "titleText": "Tabla dinámica",
+  "titleAlignment": "left",
+  "titleColor": "#000000",
+  "titleFontSize": 16,
+  "titleBold": true,
+
+  "titleBackgroundColor": "#ffffff",
+
+  "headerBackgroundColor": "#ffffff",
+  "headerTextColor": "#000000",
+  "headerBold": true,
+  "headerItalic": false,
+  "headerUnderline": false,
+  "headerAlignment": "left",
+
+  "enableAlternatingRows": false,
+  "rowBackgroundColor": "#ffffff",
+  "alternateRowBackgroundColor": "#f5f5f5",
+
+  "bodyBold": false,
+  "bodyItalic": false,
+  "bodyUnderline": false,
+  "bodyAlignment": "left",
+
+  "borderColor": "#dddddd",
+
+  "freezeHeader": true,
+  "frozenColumnCount": 1,
+  "wrapText": false,
+  "tableDensity": "normal",
+
+  "enableRowSelection": true,
+  "selectionMode": "multiple",
+  "selectionBackgroundColor": "#dbeafe",
+  "selectionTextColor": "#000000",
+
+  "showSelectionTools": true,
+  "enableExport": true,
+
+  "showStatusBar": true,
+  "showTotalCount": true,
+  "showSelectedCount": true,
+  "valueAlignment": "right",
+  "tableFontSize": 14,
+  "headerValueAlignment": "center",
+  "mergeRepeatedRowValues": false
+}
