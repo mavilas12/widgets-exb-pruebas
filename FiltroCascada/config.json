@@ -1,0 +1,15 @@
+{
+  "filters": [],
+  "showFilterContainer": false,
+  "filterBackgroundColor": "#ffffff",
+  "filterBorderColor": "#d6d6d6",
+  "activeBorderColor": "#007ac2",
+  "dropdownBackgroundColor": "#ffffff",
+  "dropdownBorderColor": "#bdbdbd",
+  "borderRadius": 0,
+  "resetButtonSize": 38,
+  "textColor": "#1a1a1a",
+  "applyButtonColor": "#007ac2",
+  "selectionColor": "#007ac2",
+  "fontSize": 14
+}

@@ -1,0 +1,21 @@
+{
+  "name": "FiltroCascada",
+  "label": "Filtro Cascada",
+  "settingUri": "setting/setting",
+  "type": "widget",
+  "version": "1.1.0",
+  "exbVersion": "1.18.0",
+  "author": "Laboratorio SIG y SR - Instituto SINCHI",
+  "description": "Widget de filtrado múltiple en cascada basado en una fuente de datos.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "useDataSources": true,
+  "properties": {},
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  },
+  "publishMessages": [
+    "DATA_SOURCE_FILTER_CHANGE"
+  ]
+}
