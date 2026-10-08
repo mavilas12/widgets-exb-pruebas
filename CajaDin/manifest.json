@@ -1,0 +1,20 @@
+{
+  "name": "CajaDin",
+  "label": "Caja Dinámica",
+  "settingUri": "setting/setting",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "Laboratorio SIG y SR - Instituto SINCHI",
+  "description": "Widget de caja visual que adapta su color al tema dinámico activo.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 100
+  }
+}

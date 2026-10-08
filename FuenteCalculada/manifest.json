@@ -1,0 +1,23 @@
+{
+  "name": "FuenteCalculada",
+  "label": "Fuente Calculada",
+  "settingUri": "setting/setting",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "Laboratorio SIG y SR - Instituto SINCHI",
+  "description": "Widget intermedio que genera una fuente de datos calculada a partir de una fuente de datos de entrada.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "useDataSources": true,
+  "properties": {
+    "canGenerateMultipleOutputDataSources": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 100
+  }
+}

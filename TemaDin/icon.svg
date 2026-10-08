@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <g fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- rodillo -->
+    <rect x="3" y="4" width="13" height="6" rx="1.5"/>
+    <!-- soporte -->
+    <path d="M16 7h2.5a1.5 1.5 0 0 1 1.5 1.5V12a2 2 0 0 1-2 2h-6"/>
+    <!-- mango -->
+    <path d="M12 14v6"/>
+  </g>
+  <rect x="10.5" y="19" width="3" height="2.5" rx="1" fill="#ffffff"/>
+</svg>
